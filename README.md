@@ -51,7 +51,7 @@ A) Most Injuries and Deaths were caused due to which Vehicle type?
 
 B) Most of the collisions was caused due to which factor?
 
-![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/419b5a57478916001520d70b07c8b3180945a7b5/Query_Images/1_Factor_Highest_Collision.png)
+
 ![image](https://github.com/user-attachments/assets/82fa4db1-3d8c-49b0-bcb3-a50a8e801010)
 
 
