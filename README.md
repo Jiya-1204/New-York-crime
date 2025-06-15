@@ -9,9 +9,7 @@ Within the five boroughs that make up New York City, around 8.2 million people d
 * We performed our analysis using `Google's Big Query` in Google Cloud Platform and stored the query results in CSV files.
 * After our analysis, we have generated a report using Google Sites to share our Insights and give Recommendations.
 
-Tableau Story Link: https://public.tableau.com/app/profile/aditya.agarwal1269/viz/NYPDMotorCollisionProject/Story1
 
-Report Link (Google Slides): https://drive.google.com/file/d/16r6KAuHcV5lPYZfqCMQMxOaRkbRwGH77/view?usp=sharing
 
 ## DATA DESCRIPTION:
 The Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage.
@@ -47,6 +45,8 @@ Before exploring the data, we created a list of questions we wanted to address:
 A) Most Injuries and Deaths were caused due to which Vehicle type?
 
 ![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/ba30e0711a7b01b9d15cf14126d3c17e95719a36/Query_Images/4_Vehicle_Causing_Most_Injuries_Deaths.png)
+![image](https://github.com/user-attachments/assets/c0d244a7-2fde-421b-b524-3721bfec7152)
+
 ![image](https://github.com/user-attachments/assets/d87dca87-4bac-42c1-b4f1-feecd025158f)
 
 B) Most of the collisions was caused due to which factor?
