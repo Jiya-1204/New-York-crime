@@ -65,6 +65,12 @@ B) Time Series Analysis -
 
 ![image](https://github.com/user-attachments/assets/aac7beeb-6bbe-4a50-9512-bf319faf465d)
 ![image](https://github.com/user-attachments/assets/47cbd2c5-e9ef-4e2e-8019-023777f24c02)
+![image](https://github.com/user-attachments/assets/bb4e936c-e91b-4c80-bec9-2a5785ac63ed
+![image](https://github.com/user-attachments/assets/2f258872-6cae-4130-a069-b2cfdfe682aa
+![image](https://github.com/user-attachments/assets/b91a13a7-4a3e-49e5-b131-4062667b3caa)
+
+
+
 
 ## INSIGHTS:
 1. Between `4 pm to 5 pm` was the peak time of the day when the maximum number of people got injured.
