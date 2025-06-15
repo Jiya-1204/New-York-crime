@@ -62,6 +62,8 @@ B) Time Series Analysis -
 
 ![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/419b5a57478916001520d70b07c8b3180945a7b5/Report/TIme%20Series%20Analysis%20of%20Motor%20Collision.png)
 
+![image](https://github.com/user-attachments/assets/aac7beeb-6bbe-4a50-9512-bf319faf465d)
+
 ## INSIGHTS:
 1. Between `4 pm to 5 pm` was the peak time of the day when the maximum number of people got injured.
 2. The number of people getting injured was `rising from 2012` and was at its peak in `2018` with a value of `123,859 injuries`.
