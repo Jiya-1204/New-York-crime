@@ -47,6 +47,7 @@ Before exploring the data, we created a list of questions we wanted to address:
 A) Most Injuries and Deaths were caused due to which Vehicle type?
 
 ![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/ba30e0711a7b01b9d15cf14126d3c17e95719a36/Query_Images/4_Vehicle_Causing_Most_Injuries_Deaths.png)
+![image](https://github.com/user-attachments/assets/d87dca87-4bac-42c1-b4f1-feecd025158f)
 
 B) Most of the collisions was caused due to which factor?
 
@@ -63,6 +64,7 @@ B) Time Series Analysis -
 ![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/419b5a57478916001520d70b07c8b3180945a7b5/Report/TIme%20Series%20Analysis%20of%20Motor%20Collision.png)
 
 ![image](https://github.com/user-attachments/assets/aac7beeb-6bbe-4a50-9512-bf319faf465d)
+![image](https://github.com/user-attachments/assets/47cbd2c5-e9ef-4e2e-8019-023777f24c02)
 
 ## INSIGHTS:
 1. Between `4 pm to 5 pm` was the peak time of the day when the maximum number of people got injured.
