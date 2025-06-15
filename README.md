@@ -16,7 +16,6 @@ Report Link (Google Slides): https://drive.google.com/file/d/16r6KAuHcV5lPYZfqCM
 ## DATA DESCRIPTION:
 The Motor Vehicle Collisions crash table contains details on the crash event. Each row represents a crash event. The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage.
 
-Dataset link: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
 ## APPROACH:
 1. Understanding the Data - 
@@ -41,26 +40,7 @@ Before exploring the data, we created a list of questions we wanted to address:
 2. Is there a relationship between the time of day and the contributing factors of the accident? (`Time Series Analysis`)
 3. Which areas are more "Collision-prone" areas? (`Collision prone analysis`)
 
-## RESULTS:
-1. Analysis performed using `Google Cloud Platform`:
 
-A) Most Injuries and Deaths were caused due to which Vehicle type?
-
-![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/ba30e0711a7b01b9d15cf14126d3c17e95719a36/Query_Images/4_Vehicle_Causing_Most_Injuries_Deaths.png)
-
-B) Most of the collisions was caused due to which factor?
-
-![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/419b5a57478916001520d70b07c8b3180945a7b5/Query_Images/1_Factor_Highest_Collision.png)
-
-2. Analysis performed using `Tableau`:
-
-A) Detecting Collision-Prone Areas - 
-
-![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/419b5a57478916001520d70b07c8b3180945a7b5/Report/Detecting%20Collision%20Prone%20Areas.png)
-
-B) Time Series Analysis - 
-
-![text](https://github.com/adiag321/NYPD-Motor-Collision-Analysis/blob/419b5a57478916001520d70b07c8b3180945a7b5/Report/TIme%20Series%20Analysis%20of%20Motor%20Collision.png)
 
 ## INSIGHTS:
 1. Between `4 pm to 5 pm` was the peak time of the day when the maximum number of people got injured.
