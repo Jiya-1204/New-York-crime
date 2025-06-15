@@ -3,11 +3,6 @@
 ## OVERVIEW:
 Within the five boroughs that make up New York City, around 8.2 million people dwell. Thousands of accidents occur each year as a result of a variety of circumstances. The NYPD gathers data on each of these accidents and makes it available to the public on <a href = "nycopendata.socrata.com">nycopendata.socrata.com</a>. We decided to dig deeper into the crash data to see if there were any underlying patterns or relationships that could explain the high frequency of collisions. From `July 2012` to `March 2022`, the data included almost `2,00,000` observations.
 
-## BRIEF - 
-* We accessed the data from "nycopendata.com" using `Open Data API` (OData API) and performed Data Connection with Tableau.
-* Then, we cleaned the data using Python and stored it in `Google Cloud Storage` as a Bucket to create a virtual instance.
-* We performed our analysis using `Google's Big Query` in Google Cloud Platform and stored the query results in CSV files.
-* After our analysis, we have generated a report using Google Sites to share our Insights and give Recommendations.
 
 
 
@@ -66,8 +61,8 @@ B) Time Series Analysis -
 
 ![image](https://github.com/user-attachments/assets/aac7beeb-6bbe-4a50-9512-bf319faf465d)
 ![image](https://github.com/user-attachments/assets/47cbd2c5-e9ef-4e2e-8019-023777f24c02)
-![image](https://github.com/user-attachments/assets/bb4e936c-e91b-4c80-bec9-2a5785ac63ed
-![image](https://github.com/user-attachments/assets/2f258872-6cae-4130-a069-b2cfdfe682aa
+![image](https://github.com/user-attachments/assets/bb4e936c-e91b-4c80-bec9-2a5785ac63ed)
+![image](https://github.com/user-attachments/assets/2f258872-6cae-4130-a069-b2cfdfe682aa)
 ![image](https://github.com/user-attachments/assets/b91a13a7-4a3e-49e5-b131-4062667b3caa)
 
 
