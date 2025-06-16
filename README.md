@@ -22,7 +22,7 @@ After understanding our dataset, it is essential to prepare the data. We have us
 We have carried out a Time-series analysis and made dashboards to understand more about the factors and causes of Motor collisions in New York City.
 
 4. Get Insights - 
-We generated interactive tableau dashboards to support our findings and get insights from the data.
+We generated interactive powerbi dashboards to support our findings and get insights from the data.
 
 5. Give Recommendations - 
 Based on our analysis, we will provide recommendations to decrease the number of Motor collisions.
